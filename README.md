@@ -68,6 +68,9 @@ o	total: Total rentals for the day.
 •	Data Quality: The dataset appears to be clean with minimal missing values, as indicated during the exploratory data analysis.
 
 
+(" kindly download this document ML_project-Swarna-236191939.docx to know more)
+
+
 
 
 
